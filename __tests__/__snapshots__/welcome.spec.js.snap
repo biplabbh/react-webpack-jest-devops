@@ -2,7 +2,7 @@
 
 exports[`Welcome renders Welcome coponent correctly 1`] = `
 <h1>
-  Hello to you, 
+  Biplab Hello to you, 
   World
 </h1>
 `;
